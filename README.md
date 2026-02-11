@@ -56,7 +56,7 @@ Each day includes at least ONE:
 | Day | Topic | Link |
 |------|-----|------|
 | 1 |Introduction to machine learning and it's types | | | In my github |
-| 2 |  |  |  |  |
+| 2 | How ML works and performance metrics |  |  |  |
 
 ---
 
