@@ -57,7 +57,7 @@ Each day includes at least ONE:
 |------|-----|------|
 | 1 |Introduction to machine learning and it's types | | | In my github |
 | 2 | How ML works and performance metrics |  |  |  |
-| 3| Confusion matrix and mathematical practice| | | |
+| 3| Introduction to supervised Learning| | | |
 
 ---
 
