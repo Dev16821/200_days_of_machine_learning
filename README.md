@@ -59,8 +59,8 @@ Each day includes at least ONE:
 | 2 | How ML works and performance metrics |  |  |  |
 | 3| Introduction to supervised Learning| | | |
 |4 | Linear regression | | | |
-| | | | | |
-| | | | | |
+| 5| Logistic Regression| | | |
+| 6| Lasso Regression| | | |
 | | | | | |
 | | | | | |
 | | | | | |
