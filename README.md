@@ -61,7 +61,7 @@ Each day includes at least ONE:
 |4 | Linear regression | | | |
 | 5| Logistic Regression| | | |
 | 6| Lasso Regression| | | |
-| | | | | |
+| 7| Decision Tree| | | |
 | | | | | |
 | | | | | |
 | | | | | |
@@ -149,10 +149,10 @@ Each day includes at least ONE:
 
 # 📒 Progress Tracker
 
-| Day | What I Built | Key Learning | Link |
-|----|-------------|-------------|------|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
+| Day | What I Built |
+|----|-------------|
+| 1 |  Food Delivery Time Prediction with Linear and logistic regression in ML|
+| 2 |  |
 
 ---
 # 🏆 Expected Outcome
